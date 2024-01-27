@@ -1,0 +1,190 @@
+﻿# Game English translation.
+# Fill out your copyright notice in the Description page of Project Settings.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2024-01-26 23:01\n"
+"PO-Revision-Date: 2024-01-26 23:01\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	Anxi
+#. SourceLocation:	/Game/MELE/Text/ST_InGame.ST_InGame
+#: /Game/MELE/Text/ST_InGame.ST_InGame
+msgctxt "ST_InGame,Anxi"
+msgid "<Normal>Anxiety</>"
+msgstr "<Normal>Anxiety</>"
+
+#. Key:	No
+#. SourceLocation:	/Game/MELE/Text/ST_InGame.ST_InGame
+#: /Game/MELE/Text/ST_InGame.ST_InGame
+msgctxt "ST_InGame,No"
+msgid "<Normal>No</>"
+msgstr "<Normal>No</>"
+
+#. Key:	Pause
+#. SourceLocation:	/Game/MELE/Text/ST_InGame.ST_InGame
+#: /Game/MELE/Text/ST_InGame.ST_InGame
+msgctxt "ST_InGame,Pause"
+msgid "<Title>Pause</>"
+msgstr "<Title>Pause</>"
+
+#. Key:	Resume
+#. SourceLocation:	/Game/MELE/Text/ST_InGame.ST_InGame
+#: /Game/MELE/Text/ST_InGame.ST_InGame
+msgctxt "ST_InGame,Resume"
+msgid "<Normal>Resume</>"
+msgstr "<Normal>Resume</>"
+
+#. Key:	Stress
+#. SourceLocation:	/Game/MELE/Text/ST_InGame.ST_InGame
+#: /Game/MELE/Text/ST_InGame.ST_InGame
+msgctxt "ST_InGame,Stress"
+msgid "<Normal>Oui</>"
+msgstr "<Normal>Oui</>"
+
+#. Key:	TimeRemain
+#. SourceLocation:	/Game/MELE/Text/ST_InGame.ST_InGame
+#: /Game/MELE/Text/ST_InGame.ST_InGame
+msgctxt "ST_InGame,TimeRemain"
+msgid "<Normal>Time remaining: {Nbr}s</>"
+msgstr "<Normal>Time remaining: {Nbr}s</>"
+
+#. Key:	WhatWasISaying
+#. SourceLocation:	/Game/MELE/Text/ST_InGame.ST_InGame
+#: /Game/MELE/Text/ST_InGame.ST_InGame
+msgctxt "ST_InGame,WhatWasISaying"
+msgid "<Normal>What I was talking about?</>"
+msgstr "<Normal>What I was talking about?</>"
+
+#. Key:	Yes
+#. SourceLocation:	/Game/MELE/Text/ST_InGame.ST_InGame
+#: /Game/MELE/Text/ST_InGame.ST_InGame
+msgctxt "ST_InGame,Yes"
+msgid "<Normal>Yes</>"
+msgstr "<Normal>Yes</>"
+
+#. Key:	Audio
+#. SourceLocation:	/Game/MELE/Text/ST_Menu.ST_Menu
+#: /Game/MELE/Text/ST_Menu.ST_Menu
+msgctxt "ST_Menu,Audio"
+msgid "<Normal>Audio</>"
+msgstr "<Normal>Audio</>"
+
+#. Key:	Back
+#. SourceLocation:	/Game/MELE/Text/ST_Menu.ST_Menu
+#: /Game/MELE/Text/ST_Menu.ST_Menu
+msgctxt "ST_Menu,Back"
+msgid "<Normal>Back</>"
+msgstr "<Normal>Back</>"
+
+#. Key:	Confirm
+#. SourceLocation:	/Game/MELE/Text/ST_Menu.ST_Menu
+#: /Game/MELE/Text/ST_Menu.ST_Menu
+msgctxt "ST_Menu,Confirm"
+msgid "<Normal>Are you sure?</>"
+msgstr "<Normal>Are you sure?</>"
+
+#. Key:	Congrat
+#. SourceLocation:	/Game/MELE/Text/ST_Menu.ST_Menu
+#: /Game/MELE/Text/ST_Menu.ST_Menu
+msgctxt "ST_Menu,Congrat"
+msgid "<Title1>Congrat you did it</>"
+msgstr "<Title1>Congrat you did it</>"
+
+#. Key:	Create
+#. SourceLocation:	/Game/MELE/Text/ST_Menu.ST_Menu
+#: /Game/MELE/Text/ST_Menu.ST_Menu
+msgctxt "ST_Menu,Create"
+msgid "<Normal>Create by :</>"
+msgstr "<Normal>Create by :</>"
+
+#. Key:	Credit
+#. SourceLocation:	/Game/MELE/Text/ST_Menu.ST_Menu
+#: /Game/MELE/Text/ST_Menu.ST_Menu
+msgctxt "ST_Menu,Credit"
+msgid "<Normal>Credit</>"
+msgstr "<Normal>Credit</>"
+
+#. Key:	Langue
+#. SourceLocation:	/Game/MELE/Text/ST_Menu.ST_Menu
+#: /Game/MELE/Text/ST_Menu.ST_Menu
+msgctxt "ST_Menu,Langue"
+msgid "<Normal>Language</>"
+msgstr "<Normal>Language</>"
+
+#. Key:	Main
+#. SourceLocation:	/Game/MELE/Text/ST_Menu.ST_Menu
+#: /Game/MELE/Text/ST_Menu.ST_Menu
+msgctxt "ST_Menu,Main"
+msgid "<Normal>Main</>"
+msgstr "<Normal>Main</>"
+
+#. Key:	Menu
+#. SourceLocation:	/Game/MELE/Text/ST_Menu.ST_Menu
+#: /Game/MELE/Text/ST_Menu.ST_Menu
+msgctxt "ST_Menu,Menu"
+msgid "<Normal>Back to Menu</>"
+msgstr "<Normal>Back to Menu</>"
+
+#. Key:	Model
+#. SourceLocation:	/Game/MELE/Text/ST_Menu.ST_Menu
+#: /Game/MELE/Text/ST_Menu.ST_Menu
+msgctxt "ST_Menu,Model"
+msgid "<Normal>3D models from :</>"
+msgstr "<Normal>3D models from :</>"
+
+#. Key:	Music
+#. SourceLocation:	/Game/MELE/Text/ST_Menu.ST_Menu
+#: /Game/MELE/Text/ST_Menu.ST_Menu
+msgctxt "ST_Menu,Music"
+msgid "<Normal>Music</>"
+msgstr "<Normal>Music</>"
+
+#. Key:	Option
+#. SourceLocation:	/Game/MELE/Text/ST_Menu.ST_Menu
+#: /Game/MELE/Text/ST_Menu.ST_Menu
+msgctxt "ST_Menu,Option"
+msgid "<Normal>Option</>"
+msgstr "<Normal>Option</>"
+
+#. Key:	OptionTitle
+#. SourceLocation:	/Game/MELE/Text/ST_Menu.ST_Menu
+#: /Game/MELE/Text/ST_Menu.ST_Menu
+msgctxt "ST_Menu,OptionTitle"
+msgid "<Title1>Option</>"
+msgstr "<Title1>Option</>"
+
+#. Key:	Play
+#. SourceLocation:	/Game/MELE/Text/ST_Menu.ST_Menu
+#: /Game/MELE/Text/ST_Menu.ST_Menu
+msgctxt "ST_Menu,Play"
+msgid "<Normal>Play</>"
+msgstr "<Normal>Play</>"
+
+#. Key:	Quit
+#. SourceLocation:	/Game/MELE/Text/ST_Menu.ST_Menu
+#: /Game/MELE/Text/ST_Menu.ST_Menu
+msgctxt "ST_Menu,Quit"
+msgid "<Normal>Quit</>"
+msgstr "<Normal>Quit</>"
+
+#. Key:	SFX
+#. SourceLocation:	/Game/MELE/Text/ST_Menu.ST_Menu
+#: /Game/MELE/Text/ST_Menu.ST_Menu
+msgctxt "ST_Menu,SFX"
+msgid "<Normal>SFX</>"
+msgstr "<Normal>SFX</>"
+
+#. Key:	Thx
+#. SourceLocation:	/Game/MELE/Text/ST_Menu.ST_Menu
+#: /Game/MELE/Text/ST_Menu.ST_Menu
+msgctxt "ST_Menu,Thx"
+msgid "<Title1>Thank you for playing</>"
+msgstr "<Title1>Thank you for playing</>"
+
